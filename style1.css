@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    size: 130%;
+    background-color: forestgreen;
+}
+h1{
+    color: darkslateblue;
+    text-align: center;
+}
+input{
+    block-size: 8%;
+    outline-color: aquamarine;
+  
+}
+p{
+    font-size: 30px;
+}
